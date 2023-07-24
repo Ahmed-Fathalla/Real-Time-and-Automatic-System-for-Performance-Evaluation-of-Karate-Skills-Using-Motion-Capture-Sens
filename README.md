@@ -24,7 +24,7 @@ for skill in range(1,5):
 
 ## Citing
 
-If you use the data or proposed work, please cite the accompanying [paper]:
+If you're using the data or the proposed work, please cite the accompanying [paper]:
 
 ```bibtex
 @article{fathalla2023real,
