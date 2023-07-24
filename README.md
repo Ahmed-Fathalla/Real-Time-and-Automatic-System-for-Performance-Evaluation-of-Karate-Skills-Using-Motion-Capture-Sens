@@ -5,6 +5,10 @@ In sports science, the automation of performance analysis and assessment is urge
 
 ## Data Availability
 Data available on request from the authors
+skill_1:  gedan
+skill_2:  Oi Zuki
+skill_3:  Soto Uke
+skill_4:  Age Uke
 
 ## Running an Experiment
 ```python
