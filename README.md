@@ -10,6 +10,7 @@ The attached data is just a sample of the data. Hence, the complete dataset is a
 ## Running an Experiment
 ```python
 from utils.skill import *
+
 skill_dict = {
                 1:'GEDAN BARAI',
                 2:'OI ZUKI',
@@ -18,7 +19,7 @@ skill_dict = {
             }
 
 for skill in range(1,5):
-    create_model(skill, draw = False)
+    create_model(skill, draw = True)
 ```
 
 ## Citing
