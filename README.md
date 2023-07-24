@@ -10,6 +10,8 @@ In sports science, the automation of performance analysis and assessment is urge
 
 ## Citing
 
+If you use the data or proposed work, please cite the accompanying [paper]:
+
 ```bibtex
 @article{fathalla2023real,
   title={Real-Time and Automatic System for Performance Evaluation of Karate Skills Using Motion Capture Sensors and Continuous Wavelet Transform},
